@@ -1,0 +1,19 @@
+/*start*/
+.mod-manager {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 240px;
+}
+.mod-manager__link {
+  width: 100%;
+}
+.mod-manager__img {
+  width: 100%;
+}
+.mod-manager__text {
+  font-size: 12px;
+  font-family: "Microsoft Yahei";
+  margin: 5px;
+}
+/*end*/

@@ -1,0 +1,34 @@
+
+.mod-qrcode{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 150px;
+}
+.mod-qrcode__link{
+  width: 100%;
+}
+.mod-qrcode__img{
+  width: 100%;
+}
+.mod-qrcode__text{
+  font-size: 12px;
+  font-family: "Microsoft Yahei";
+  margin: 5px;
+}
+
+
+.mod-download{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 120px;
+}
+.mod-download__link{
+  width: 100%;
+  height: 100%;
+}
+.mod-download__img{
+	width: 100%;
+}
+

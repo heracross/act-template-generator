@@ -1,0 +1,12 @@
+.ui-wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+.ui-clear:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
